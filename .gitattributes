@@ -1,2 +1,20 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+--------primo esercizio----------
+SELECT * FROM clients
+WHERE name _ client =
+'Mario'
+--------secondo esercizio----------
+SELECT * FROM clients
+WHERE birth
+= 1982
+
+--------terzo esercizio----------
+
+SELECT COUNT(*) FROM invoice
+WHERE iva '20%
+
+
+
+
+
+
